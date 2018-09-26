@@ -1,2 +1,3 @@
 # 360_image_examples
-360_img_examples
+
+A couple of 360 images I took for testing purposes. They're licensed cc0, go nuts.
